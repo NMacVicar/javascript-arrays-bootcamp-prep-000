@@ -1,7 +1,5 @@
 /*global describe, it */
 
-require('./arrays.js')
-
 const expect = require('chai').expect
 const fs = require('fs')
 const jsdom = require('mocha-jsdom')
