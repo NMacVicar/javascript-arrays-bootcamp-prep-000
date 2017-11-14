@@ -1,5 +1,7 @@
 /*global describe, it */
 
+const myModule = require('./arrays')
+
 const expect = require('chai').expect
 const fs = require('fs')
 const jsdom = require('mocha-jsdom')
