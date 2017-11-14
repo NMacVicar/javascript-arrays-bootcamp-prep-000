@@ -1,6 +1,6 @@
 /*global describe, it */
 
-const myModule = require('./arrays.js')
+require('./arrays.js')
 
 const expect = require('chai').expect
 const fs = require('fs')
